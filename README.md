@@ -2,7 +2,7 @@
 
 Me {<br>
     🔭: I’m currently working on Federal University of Lavras (UFLA) - Brazil<br>
-    🌱: I have experience in php, MySQL, html, css, javascript(typeScript), bootstrap, joomla, Node, React<br>
+    🌱: I have experience in php, MySQL, html, css, javascript(typeScript), bootstrap, Node, React, joomla, Wordpress<br>
     🤔: I like to solve problems and learn new tools.<br>
 }<br>
 
@@ -17,6 +17,10 @@ Me {<br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 </div>
  
  <br>
