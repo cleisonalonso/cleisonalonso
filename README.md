@@ -1,10 +1,10 @@
 ### Opa! 👋
 
-Me {
-    🔭: I’m currently working on Federal University of Lavras (UFLA) - Brazil
-    🌱: I have experience in php, MySQL, html, css, javascript(typeScript), bootstrap, joomla, Node, React
-    🤔: I like to solve problems and learn new tools.
-}
+Me {<br>
+    🔭: I’m currently working on Federal University of Lavras (UFLA) - Brazil<br>
+    🌱: I have experience in php, MySQL, html, css, javascript(typeScript), bootstrap, joomla, Node, React<br>
+    🤔: I like to solve problems and learn new tools.<br>
+}<br>
 
 ## Welcome 😁
 
